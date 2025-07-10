@@ -1,0 +1,58 @@
+## Palindrome Checker Using Stack and Queue 🌀
+
+This is a **console-based Java application** that checks whether a given input string is a **palindrome** using core Java data structures — **Stack** and **Queue**. The project was developed as part of an academic course at **Lovely Professional University**.
+
+---
+
+## 📌 Project Overview
+
+A **palindrome** is a word, phrase, or number that reads the same forwards and backwards (ignoring spaces, punctuation, and case). This project reads input from the user, processes it, and checks if it's a palindrome by comparing characters using a **Stack (LIFO)** and a **Queue (FIFO)**.
+
+---
+
+## 🚀 Features
+
+- Accepts user input via command-line
+- Cleans input using **Regular Expressions**
+- Implements logic using **Stack and Queue**
+- Case-insensitive and ignores non-alphanumeric characters
+- Displays a message based on whether the input is a palindrome or not
+
+---
+
+## 🛠 Technologies Used
+
+- **Java (Core)** — Programming Language
+- **Java Collections Framework** — Stack and Queue (LinkedList)
+- **Regex** — For input sanitization
+- **Visual Studio Code** — IDE used for development
+- **JDK 17+** — For compiling and executing the code
+- **Command Line / Terminal** — To run the application
+
+---
+
+## 📸 Screenshots
+
+- ✅ Code snippet for the logic
+- ✅ Output for a valid palindrome (e.g., "Madam")
+- ✅ Output for a non-palindrome input (e.g., "Hello")
+
+---
+
+## 🧠 Learning Outcomes
+
+- Practiced **Object-Oriented Programming** in Java
+- Understood **linear data structures** like Stack and Queue
+- Used **Regex** for cleaning and preprocessing strings
+- Applied logical thinking for character comparison
+- Designed a user-interactive **console-based application**
+
+---
+
+## 📂 File Structure
+
+```bash
+PalindromeChecker/
+├── PalindromeChecker.java   # Main Java file
+├── README.md                 # This file
+└── Screenshots/             # Folder with screenshots
